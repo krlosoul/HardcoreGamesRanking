@@ -1,5 +1,4 @@
 /.DS_Store
-bin/
-obj/
-Debug/
-Release/
+# Ignorar carpetas de compilación
+**/bin/
+**/obj/
