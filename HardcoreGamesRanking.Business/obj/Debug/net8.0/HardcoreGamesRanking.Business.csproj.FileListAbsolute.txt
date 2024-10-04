@@ -1,0 +1,15 @@
+/Users/krlosoul/Documents/Proyectos/HardcoreGamesRanking/Backend/HardcoreGamesRanking/HardcoreGamesRanking.Business/bin/Debug/net8.0/HardcoreGamesRanking.Business.deps.json
+/Users/krlosoul/Documents/Proyectos/HardcoreGamesRanking/Backend/HardcoreGamesRanking/HardcoreGamesRanking.Business/bin/Debug/net8.0/HardcoreGamesRanking.Business.dll
+/Users/krlosoul/Documents/Proyectos/HardcoreGamesRanking/Backend/HardcoreGamesRanking/HardcoreGamesRanking.Business/bin/Debug/net8.0/HardcoreGamesRanking.Business.pdb
+/Users/krlosoul/Documents/Proyectos/HardcoreGamesRanking/Backend/HardcoreGamesRanking/HardcoreGamesRanking.Business/bin/Debug/net8.0/HardcoreGamesRanking.Core.dll
+/Users/krlosoul/Documents/Proyectos/HardcoreGamesRanking/Backend/HardcoreGamesRanking/HardcoreGamesRanking.Business/bin/Debug/net8.0/HardcoreGamesRanking.Core.pdb
+/Users/krlosoul/Documents/Proyectos/HardcoreGamesRanking/Backend/HardcoreGamesRanking/HardcoreGamesRanking.Business/obj/Debug/net8.0/HardcoreGamesRanking.Business.csproj.AssemblyReference.cache
+/Users/krlosoul/Documents/Proyectos/HardcoreGamesRanking/Backend/HardcoreGamesRanking/HardcoreGamesRanking.Business/obj/Debug/net8.0/HardcoreGamesRanking.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krlosoul/Documents/Proyectos/HardcoreGamesRanking/Backend/HardcoreGamesRanking/HardcoreGamesRanking.Business/obj/Debug/net8.0/HardcoreGamesRanking.Business.AssemblyInfoInputs.cache
+/Users/krlosoul/Documents/Proyectos/HardcoreGamesRanking/Backend/HardcoreGamesRanking/HardcoreGamesRanking.Business/obj/Debug/net8.0/HardcoreGamesRanking.Business.AssemblyInfo.cs
+/Users/krlosoul/Documents/Proyectos/HardcoreGamesRanking/Backend/HardcoreGamesRanking/HardcoreGamesRanking.Business/obj/Debug/net8.0/HardcoreGamesRanking.Business.csproj.CoreCompileInputs.cache
+/Users/krlosoul/Documents/Proyectos/HardcoreGamesRanking/Backend/HardcoreGamesRanking/HardcoreGamesRanking.Business/obj/Debug/net8.0/Hardcore.1D627BFC.Up2Date
+/Users/krlosoul/Documents/Proyectos/HardcoreGamesRanking/Backend/HardcoreGamesRanking/HardcoreGamesRanking.Business/obj/Debug/net8.0/HardcoreGamesRanking.Business.dll
+/Users/krlosoul/Documents/Proyectos/HardcoreGamesRanking/Backend/HardcoreGamesRanking/HardcoreGamesRanking.Business/obj/Debug/net8.0/refint/HardcoreGamesRanking.Business.dll
+/Users/krlosoul/Documents/Proyectos/HardcoreGamesRanking/Backend/HardcoreGamesRanking/HardcoreGamesRanking.Business/obj/Debug/net8.0/HardcoreGamesRanking.Business.pdb
+/Users/krlosoul/Documents/Proyectos/HardcoreGamesRanking/Backend/HardcoreGamesRanking/HardcoreGamesRanking.Business/obj/Debug/net8.0/ref/HardcoreGamesRanking.Business.dll
